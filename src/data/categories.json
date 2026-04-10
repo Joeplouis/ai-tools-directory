@@ -1,0 +1,15 @@
+[
+  { "id": "All", "name": "All Tools", "emoji": "🌐", "description": "All AI tools in one place" },
+  { "id": "Text & Writing", "name": "Text & Writing", "emoji": "✍️", "description": "AI writing assistants, copywriters, and editors" },
+  { "id": "Image Generation", "name": "Image Generation", "emoji": "🎨", "description": "AI image generators, editors, and art tools" },
+  { "id": "Video & Animation", "name": "Video & Animation", "emoji": "🎬", "description": "AI video generators, editors, and animation tools" },
+  { "id": "Voice & Audio", "name": "Voice & Audio", "emoji": "🎙️", "description": "AI voice cloning, TTS, and audio editing" },
+  { "id": "Coding & Dev", "name": "Coding & Dev", "emoji": "💻", "description": "AI coding assistants, agents, and developer tools" },
+  { "id": "Marketing & Sales", "name": "Marketing & Sales", "emoji": "📈", "description": "AI marketing, sales, and CRM tools" },
+  { "id": "Productivity", "name": "Productivity", "emoji": "⚡", "description": "AI productivity, project management, and automation" },
+  { "id": "AI Agents", "name": "AI Agents", "emoji": "🤖", "description": "AI agents, chatbots, and autonomous systems" },
+  { "id": "Research & Analytics", "name": "Research & Analytics", "emoji": "🔬", "description": "AI research, data analysis, and BI tools" },
+  { "id": "Design & Art", "name": "Design & Art", "emoji": "🖼️", "description": "AI design, illustration, and creative tools" },
+  { "id": "Business & Finance", "name": "Business & Finance", "emoji": "💼", "description": "AI business, accounting, and financial tools" },
+  { "id": "Education & Learning", "name": "Education & Learning", "emoji": "📚", "description": "AI learning, tutoring, and educational tools" }
+]
